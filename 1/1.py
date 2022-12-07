@@ -1,4 +1,4 @@
-input = open("1/1.txt", "r")
+input = open("1/input.txt", "r")
 
 highestAmount = 0
 currentamount = 0

@@ -1,4 +1,4 @@
-input = open("2/1.txt", "r")
+input = open("2/input.txt", "r")
 
 score = 0
 x = [2, 0, 1, 2, 0]
